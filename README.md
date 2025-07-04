@@ -12,13 +12,13 @@ En FINCAMEL SL ofrecemos soluciones completas en el ámbito inmobiliario. Nuestr
 
 - Informar sobre promociones y oportunidades actuales.
 
-Facilitar el contacto directo con nuestros agentes.
+- Facilitar el contacto directo con nuestros agentes.
 
-Reforzar la presencia digital de FINCAMEL SL.
+- Reforzar la presencia digital de FINCAMEL SL.
 
 
 **🛡️ Derechos de Autor**
 
-© 2025 FINCAMEL SL – Todos los derechos reservados.
+**© 2025 FINCAMEL SL** – Todos los derechos reservados.
 
 Diseñado y desarrollado por Aimar Esqueta Albert.
