@@ -4,7 +4,7 @@ En FINCAMEL SL ofrecemos soluciones completas en el ámbito inmobiliario. Nuestr
 
 **🌐 Objetivo del Sitio Web**
 
-El sitio oficial de FINCAMEL SL tiene como finalidad:
+- El sitio oficial de FINCAMEL SL tiene como finalidad:
 
 Presentar la identidad y valores de la empresa.
 
