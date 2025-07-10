@@ -1,5 +1,5 @@
 // script.js
-
+ 
 // Acordeones desplegables con animación
 const acordeonBtns = document.querySelectorAll('.acordeon-btn');
 acordeonBtns.forEach(btn => {
